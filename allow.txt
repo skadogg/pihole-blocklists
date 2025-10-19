@@ -1,3 +1,19 @@
 # Add allowed domains here. Please sort alphabetically.
 
+# Go Guardian
+0.0.0.0 beacon-fullpage-predictor.goguardian.com
+0.0.0.0 beacon.goguardian.com
+0.0.0.0 countvoncount.goguardian.com
+0.0.0.0 ext.goguardian.com
 0.0.0.0 goguardian.com
+0.0.0.0 inquisition.goguardian.com
+0.0.0.0 ip.goguardian.com
+0.0.0.0 panther.goguardian.com
+0.0.0.0 quiddity.goguardian.com
+0.0.0.0 sakura.goguardian.com
+0.0.0.0 screenshots.goguardian.com
+0.0.0.0 snat.goguardian.com
+0.0.0.0 sockjs-goguardian.pusher.com
+0.0.0.0 ws-goguardian.pusher.com
+0.0.0.0 x3-policy-maker.goguardian.com
+0.0.0.0 x3-predictor.goguardian.com
