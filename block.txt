@@ -1,0 +1,6 @@
+# Add domains here. Please sort alphabetically.
+
+||gamesgo.net^	
+||goguardian.com^	
+||poki.com^	
+||www.gimkit.com^
