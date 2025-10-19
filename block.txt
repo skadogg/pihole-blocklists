@@ -1,3 +1,5 @@
+[Adblock Plus]
+
 # Add blocked domains here. Please sort alphabetically.
 
 (\.|^)poki\.com$	

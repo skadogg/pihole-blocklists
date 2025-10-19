@@ -1,3 +1,5 @@
+[Adblock Plus]
+
 # Add allowed domains here. Please sort alphabetically.
 
 (\.|^)goguardian\.com$
