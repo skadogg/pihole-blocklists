@@ -1,5 +1,5 @@
 # Add blocked domains here. Please sort alphabetically.
 
-||gamesgo.net^	
-||poki.com^	
-||www.gimkit.com^
+(\.|^)poki\.com$	
+(\.|^)gamesgo\.net$	
+(\.|^)www\.gimkit\.com$
