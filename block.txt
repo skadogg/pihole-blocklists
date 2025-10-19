@@ -1,7 +1,5 @@
-[Adblock Plus]
-
 # Add blocked domains here. Please sort alphabetically.
 
-||gamesgo.net^	
-||poki.com^	
-||www.gimkit.com^
+0.0.0.0 gamesgo.net
+0.0.0.0 poki.com
+0.0.0.0 www.gimkit.com

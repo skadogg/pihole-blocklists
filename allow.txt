@@ -1,6 +1,3 @@
-[Adblock Plus]
-
 # Add allowed domains here. Please sort alphabetically.
 
-||goguardian.com^
-
+0.0.0.0 goguardian.com
