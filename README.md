@@ -20,3 +20,9 @@ Feel free to submit pull requests with new blocklists or improvements. Let's mak
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🌟 Acknowledgments
+
+Thanks to the Pi-hole community for their amazing work in making network-level ad-blocking possible!
