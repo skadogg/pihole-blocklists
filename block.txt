@@ -1,6 +1,5 @@
-# Add domains here. Please sort alphabetically.
+# Add blocked domains here. Please sort alphabetically.
 
 ||gamesgo.net^	
-||goguardian.com^	
 ||poki.com^	
 ||www.gimkit.com^
