@@ -17,3 +17,6 @@
 0.0.0.0 ws-goguardian.pusher.com
 0.0.0.0 x3-policy-maker.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com
+
+# Minecraft
+0.0.0.0 eu-teams.events.data.microsoft.com
